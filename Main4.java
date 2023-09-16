@@ -22,6 +22,20 @@ public class Main4 {
         }
         return true;
     }
-
-
 }
+
+/*
+    Output statement
+    compilation + execution
+    variables
+    Data types
+    operators
+    conditional
+    loops
+    methods (static)
+
+    classes, objects
+    interfaces
+    exceptions
+    inheritance
+ */
